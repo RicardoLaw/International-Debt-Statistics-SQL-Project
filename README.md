@@ -4,7 +4,6 @@ In this project we analyze a dataset using SQL
 
 * Download the csv file.
 * Import the file to MySQL
-* Clean it a bit (since it's pretty clean to start with)
 * Exploratory Data Analysis 
 
 
